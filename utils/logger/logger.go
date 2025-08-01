@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/SemenShakhray/doccash/lib/logger/slogpretty"
+	"github.com/SemenShakhray/doccash/utils/logger/slogpretty"
 )
 
 func SetupLogger() *slog.Logger {
